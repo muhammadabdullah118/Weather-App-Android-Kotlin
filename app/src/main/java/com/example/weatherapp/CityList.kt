@@ -1,0 +1,31 @@
+package com.example.weatherapp
+
+val cityList = listOf(
+    City("Karachi", 24.8607, 67.0011),
+    City("Lahore", 31.5497, 74.3436),
+    City("Islamabad", 33.6844, 73.0479),
+    City("Rawalpindi", 33.5651, 73.0169),
+    City("Faisalabad", 31.4504, 73.1350),
+    City("Multan", 30.1575, 71.5249),
+    City("Peshawar", 34.0151, 71.5249),
+    City("Quetta", 30.1798, 66.9750),
+    City("Gujranwala", 32.1877, 74.1945),
+    City("Sialkot", 32.4945, 74.5229),
+    City("Sargodha", 32.0836, 72.6717),
+    City("Bahawalpur", 29.3956, 71.6822),
+    City("Sukkur", 27.7244, 68.8228),
+    City("Larkana", 27.5600, 68.2264),
+    City("Hyderabad", 25.3960, 68.3578),
+    City("Abbottabad", 34.1463, 73.2110),
+    City("Mardan", 34.1985, 72.0451),
+    City("Dera Ismail Khan", 31.8327, 70.9024),
+    City("Mirpur", 33.1478, 73.7517),
+    City("Jhelum", 32.9331, 73.7264),
+    City("Sahiwal", 30.6667, 73.1000),
+    City("Nawabshah", 26.2483, 68.4096),
+    City("Chiniot", 31.7200, 72.9784),
+    City("Sheikhupura", 31.7131, 73.9783),
+    City("Dera Ghazi Khan", 30.0561, 70.6348),
+    City("Khuzdar", 27.8114, 66.6100),
+    City("Gwadar", 25.1216, 62.3390)
+)
